@@ -113,6 +113,19 @@
 	background: #ffeb41;
 }
 
+.color.pink {
+	background: #db84ad;
+	color: #fff;
+}
+
+.color.pink i {
+	color: #db84ad;
+}
+
+.color.pink h2 span {
+	background: #db84ad;
+}
+
 
 body {
 	font-family: 'Droid Sans';
