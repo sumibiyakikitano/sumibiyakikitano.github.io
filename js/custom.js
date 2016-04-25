@@ -379,7 +379,7 @@ jQuery(document).ready(function () {
 				var $this = $(this);
 				// don't proceed if already selected
 				if ( $this.hasClass('selected') ) {
-			  		return true;
+			  		return false;
 				}
 			var $optionSet = $this.parents('.option-set');
 			$optionSet.find('.selected').removeClass('selected');
