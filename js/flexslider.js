@@ -906,7 +906,7 @@ $(window).load(function() {
     controlNav: false,
     animationLoop: false,
     slideshow: false,
-    itemWidth: 2023,
+    itemWidth: 223,
     itemMargin: 5,
     minItems: 3,
     maxItems: 5,
