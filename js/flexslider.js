@@ -909,7 +909,7 @@ $(window).load(function() {
     itemWidth: 223,
     itemMargin: 5,
     minItems: 3,
-    maxItems: 5,
+    maxItems: 4,
     asNavFor: '#flex-cs'
   });
 });
