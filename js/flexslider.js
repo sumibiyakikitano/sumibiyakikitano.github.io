@@ -907,7 +907,7 @@ $(window).load(function() {
     animationLoop: false,
     slideshow: false,
     itemWidth: 223,
-    itemMargin: 5,
+    itemMargin: 6,
     minItems: 3,
     maxItems: 4,
     asNavFor: '#flex-cs'
