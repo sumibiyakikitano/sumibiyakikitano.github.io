@@ -908,8 +908,8 @@ $(window).load(function() {
     slideshow: false,
     itemWidth: 223,
     itemMargin: 5,
-    minItems: 2,
-    maxItems: 4,
+    minItems: 3,
+    maxItems: 5,
     asNavFor: '#flex-cs'
   });
 });
