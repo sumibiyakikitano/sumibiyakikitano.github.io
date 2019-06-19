@@ -73,16 +73,16 @@
 }
 
 .color.blue.transparent {
-	background: rgba(91,194,206,.8);
+	background: #5B8E7D;
 	color: #fff;
 }
 
 .color.blue.transparent i {
-	color: #5bc2ce;
+	color: #5B8E7D;
 }
 
 .color.blue.transparent h2 span{
-	background: rgba(91,194,206,0);
+	background: #5B8E7D;
 }
 
 
