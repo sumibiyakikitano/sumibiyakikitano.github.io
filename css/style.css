@@ -637,7 +637,7 @@ header {
 =================================================================== */
 .picture {
 	position: relative;
-	}
+}
 
 .picture a {
 	display: block;
@@ -710,6 +710,9 @@ header {
 	padding: 10px;
 }
 
+.wrap{
+  text-align:center;
+}
 
 .picture img {width: 100%; height: auto; border: 1px solid #f6f6f6}
 
